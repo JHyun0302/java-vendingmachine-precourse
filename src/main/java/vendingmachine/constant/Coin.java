@@ -1,4 +1,4 @@
-package vendingmachine;
+package vendingmachine.constant;
 
 import static vendingmachine.exception.ErrorInputException.ErrorMessage.INVALID_COIN_AMOUNT_ERROR;
 
